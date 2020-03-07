@@ -12,3 +12,5 @@ A Mandelbrot set plotter made in C++, SFML and OpenMP
 - SFML
 - C++11
 - OpenMP
+
+![alt text](/docs/screenshot.JPG)
